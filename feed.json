@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tomarchive.com",
+    "description": "",
+    "home_page_url": "https://tom-archive.github.io/tom-archive",
+    "feed_url": "https://tom-archive.github.io/tom-archive/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom"
+    },
+    "items": [
+        {
+            "id": "https://tom-archive.github.io/tom-archive/test-page/",
+            "url": "https://tom-archive.github.io/tom-archive/test-page/",
+            "title": "Test Page",
+            "summary": "Title Heading This is a test page with example text. \"I am a test page\" - this page, now",
+            "content_html": "<h1>Title</h1>\n<h2>Heading</h2>\n<p>This is a test page with example text.</p>\n<blockquote>\n<p>\"I am a test page\" - this page, now</p>\n</blockquote>",
+            "author": {
+                "name": "Tom"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-21T17:41:30+11:00",
+            "date_modified": "2026-11-21T17:41:30+11:00"
+        }
+    ]
+}

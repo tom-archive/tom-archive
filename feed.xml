@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>tomarchive.com</title>
+    <link href="https://tom-archive.github.io/tom-archive/feed.xml" rel="self" />
+    <link href="https://tom-archive.github.io/tom-archive" />
+    <updated>2026-11-21T17:41:30+11:00</updated>
+    <author>
+        <name>Tom</name>
+    </author>
+    <id>https://tom-archive.github.io/tom-archive</id>
+
+    <entry>
+        <title>Test Page</title>
+        <author>
+            <name>Tom</name>
+        </author>
+        <link href="https://tom-archive.github.io/tom-archive/test-page/"/>
+        <id>https://tom-archive.github.io/tom-archive/test-page/</id>
+
+        <updated>2026-11-21T17:41:30+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Title Heading This is a test page with example text. "I am a test page" - this page, now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Title</h1>
+<h2>Heading</h2>
+<p>This is a test page with example text.</p>
+<blockquote>
+<p>"I am a test page" - this page, now</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>
