@@ -1,3 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://tom-archive.github.io/tom-archive/sitemap.xml

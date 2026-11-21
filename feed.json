@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://tom-archive.github.io/tom-archive/test-page/",
-            "url": "https://tom-archive.github.io/tom-archive/test-page/",
-            "title": "Test Page",
-            "summary": "Title Heading This is a test page with example text. \"I am a test page\" - this page, now",
-            "content_html": "<h1>Title</h1>\n<h2>Heading</h2>\n<p>This is a test page with example text.</p>\n<blockquote>\n<p>\"I am a test page\" - this page, now</p>\n</blockquote>",
+            "id": "https://tom-archive.github.io/tom-archive/test-1/",
+            "url": "https://tom-archive.github.io/tom-archive/test-1/",
+            "title": "Test Post",
+            "summary": "Some text and an image",
+            "content_html": "<p>Some text and an image</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tom-archive.github.io/tom-archive/media/posts/3/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash.jpg\" alt=\"\" width=\"4288\" height=\"2848\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-xs.jpg 640w ,https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-sm.jpg 768w ,https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-md.jpg 1024w ,https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-lg.jpg 1366w ,https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-xl.jpg 1600w ,https://tom-archive.github.io/tom-archive/media/posts/3/responsive/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-2xl.jpg 1920w\"></figure>",
+            "image": "https://tom-archive.github.io/tom-archive/media/posts/3/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-2.jpg",
             "author": {
                 "name": "Tom"
             },
             "tags": [
             ],
-            "date_published": "2026-11-21T17:41:30+11:00",
-            "date_modified": "2026-11-21T17:41:30+11:00"
+            "date_published": "2026-11-21T18:20:53+11:00",
+            "date_modified": "2026-11-21T18:32:19+11:00"
         }
     ]
 }
